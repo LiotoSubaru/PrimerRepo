@@ -34,7 +34,7 @@ if menu == "D":
     print(f"La división es {resultado}")
 
 else:
-    break
+    menu = "0"
 
 
 
